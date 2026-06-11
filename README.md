@@ -52,7 +52,7 @@ Through this project, I learned:
 - User Login & Authentication
 - Improve mobile responsiveness
 
---
+
 
 ## 👨‍💻 Author
 
